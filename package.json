@@ -1,1 +1,1 @@
-{"version":"0.0.1","tags":{"streamtags":[]},"name":"mypack"}
+{"version":"0.0.1","tags":{"streamtags":[]},"name":"mypack","minLogStreamVersion":"4.11.0"}
