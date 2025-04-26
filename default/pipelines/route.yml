@@ -7,7 +7,7 @@ routes:
     final: true
     disabled: false
     pipeline: main
-    description: myRoute-v1.0.0gfdsdfd
+    description: myRoute-v1.0.0gfdsdfdsfd
     enableOutputExpression: false
     outputExpression: null
     filter: "true"
